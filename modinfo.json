@@ -1,0 +1,18 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Vanilla patched Basket + BigBag by Cheva",
+  "Version": "0.1.21-a",
+  "NetworkVersion": null,
+  "Description": "Vanilla patched Basket 3->4 slots + New BigBag 5 slots",
+  "Website": "",
+  "ModID": "bigbag",
+  "Authors": [
+    "Cheva"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
+}

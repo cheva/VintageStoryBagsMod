@@ -1,0 +1,28 @@
+[
+	{
+		ingredientPattern: "LSL,LLL",
+		enabled: true,
+		ingredients: {
+			"L": { type: "item", code: "game:cattailtops", quantity: 5 },
+			"S": { type: "item", code: "game:stick", quantity: 5 }
+		},
+		name: "bigbag",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag"  }
+	}
+,
+	{
+		ingredientPattern: "MTM,MMM",
+		ingredients: {
+			"M": { type: "item", code: "game:papyrustops", quantity: 5 },
+			"T": { type: "item", code: "game:stick", quantity: 5 }
+		},
+		name: "bigbag",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag"  }
+	}
+]

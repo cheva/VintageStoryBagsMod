@@ -1,0 +1,28 @@
+[
+{
+	_Comment: "Патч на ваніль slots",
+	"enabled": true,
+	"op": "replace",
+	"path": "/attributes/backpack/quantitySlots",
+	"file": "game:itemtypes/wearable/bag/basket.json",
+	"value": 4,
+}
+,
+{
+	_Comment: "Патч на ваніль cattail",
+	"enabled": true,
+	"op": "replace",
+	"file": "game:itemtypes/recipes/grid/basket.json",
+	"path": "ingredients/L/quantity",
+	"value": 3
+}
+,
+{
+	_Comment: "Патч на ваніль papyrus",
+	"enabled": true,
+	"op": "replace",
+	"file": "game:itemtypes/recipes/grid/basket.json",
+	"path": "ingredients/P/quantity",
+	"value": 3
+}
+]

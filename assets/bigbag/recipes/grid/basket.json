@@ -1,0 +1,26 @@
+[
+	{
+		ingredientPattern: "L_L,LLL",
+		enabled: true,
+		ingredients: {
+			"L": { type: "item", code: "game:cattailtops", quantity: 4 },
+		},
+		name: "basket",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "basket"  }
+	}
+,
+	{
+		ingredientPattern: "M_M,MMM",
+		ingredients: {
+			"M": { type: "item", code: "game:papyrustops", quantity: 4 },
+		},
+		name: "basket",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "basket"  }
+	}
+]

@@ -5,7 +5,7 @@
 - Fixed: Reciept dosnt loaded
 - Working: Tested with other mods 
 - Make the Large Basket as separate item
+- Rename Large Basket to Hamper
 -----------
 ## Issues
 - @TODO Needs: translations 
-- @TODO Needs: ptional Vanilla patch

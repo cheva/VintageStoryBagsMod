@@ -1,10 +1,10 @@
 {
   "Type": 1,
   "TextureSize": 32,
-  "Name": "Big Basket And BigBag by Cheva",
+  "Name": "Hamper And BigBag by Cheva",
   "Version": "0.1.22-a",
   "NetworkVersion": null,
-  "Description": "Big Basket And BigBag (4 & 5 slots)",
+  "Description": "Hamper And BigBag (4 & 5 slots)",
   "Website": "",
   "ModID": "bigbag",
   "Authors": [

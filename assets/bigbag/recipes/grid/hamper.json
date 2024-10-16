@@ -5,11 +5,11 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
 		},
-		name: "basket",
+		name: "hamper",
 		width: 3,
 		height: 3,
 		recipeGroup: 1,
-		output: { type: "item", code: "basket"  }
+		output: { type: "item", code: "hamper"  }
 	}
 ,
 	{
@@ -17,10 +17,10 @@
 		ingredients: {
 			"M": { type: "item", code: "game:papyrustops", quantity: 3 },
 		},
-		name: "basket",
+		name: "hamper",
 		width: 3,
 		height: 3,
 		recipeGroup: 1,
-		output: { type: "item", code: "basket"  }
+		output: { type: "item", code: "hamper"  }
 	}
 ]

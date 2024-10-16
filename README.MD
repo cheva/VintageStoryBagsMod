@@ -6,6 +6,7 @@
 - Working: Tested with other mods 
 - Make the Large Basket as separate item
 - Rename Large Basket to Hamper
+- Test and add Screenshots
 -----------
 ## Issues
 - @TODO Needs: translations 

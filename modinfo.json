@@ -14,5 +14,5 @@
   "Side": "Universal",
   "RequiredOnClient": true,
   "RequiredOnServer": true,
-  "Dependencies": {}
+  "dependencies": {}
 }

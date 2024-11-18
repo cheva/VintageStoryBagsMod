@@ -1,0 +1,29 @@
+[
+	{
+		ingredientPattern: "L_L,LML",
+		enabled: true,
+		ingredients: {
+			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
+			"M": { type: "item", code: "game:hamper", quantity: 1 },
+		},
+		name: "hamper-t2",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "hamper-t2"  }
+	}
+,
+	{
+		ingredientPattern: "L_L,LML",
+		enabled: true,
+		ingredients: {
+			"L": { type: "item", code: "game:papyrustops", quantity: 3 },
+			"M": { type: "item", code: "game:hamper", quantity: 1 },
+		},
+		name: "hamper-t2",
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "hamper-t2"  }
+	}
+]

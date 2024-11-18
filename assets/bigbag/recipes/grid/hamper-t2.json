@@ -4,7 +4,7 @@
 		enabled: true,
 		ingredients: {
 			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
-			"M": { type: "item", code: "game:hamper", quantity: 1 },
+			"M": { type: "item", code: "hamper", quantity: 1 },
 		},
 		name: "hamper-t2",
 		width: 3,
@@ -18,7 +18,7 @@
 		enabled: true,
 		ingredients: {
 			"L": { type: "item", code: "game:papyrustops", quantity: 3 },
-			"M": { type: "item", code: "game:hamper", quantity: 1 },
+			"M": { type: "item", code: "hamper", quantity: 1 },
 		},
 		name: "hamper-t2",
 		width: 3,

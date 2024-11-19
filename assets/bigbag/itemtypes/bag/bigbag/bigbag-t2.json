@@ -8,7 +8,7 @@
 	],
 	attributes: {
 		backpack: {
-			quantitySlots: 5 
+			quantitySlots: 9 
 		}
 	},
 	textures: {

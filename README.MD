@@ -32,4 +32,5 @@
 - Test and add Screenshots
 -----------
 ## Issues
+- @TODO add ropes to T3 recipes
 - @TODO Needs: translations 

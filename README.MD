@@ -23,7 +23,7 @@
 ## Finished
 * Bigag T2
 - Hamper T1 and T2
-- Bigag T1
+- Hamper and Bigag T1
 - Fixed: Lang key not found: bigbag:item-bigbag
 - Fixed: Reciept dosnt loaded
 - Working: Tested with other mods 

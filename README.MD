@@ -10,8 +10,8 @@
 - Create Hamper T3 from Hampers t2x2 with t2x2...3x8 hanper-t2...tops LML,LML,LLL
 -----------
 ## v0.1.23-a Tier 2 BigBag - 9 slots
-- Create BigBag T2 from T1 with with 5x1...t1x1...5x1 sticks...bigbag...tops L,M,N
-- Create BigBag T2 from Hamper T2 3x3...t2x1...3x5 sticks...hamper-t2...tops LLL,NMN,NNN
+- Create BigBag T2 from T1 with with 3x3...t2x1...3x5 sticks...bigbag...tops LLL,NMN,NNN
+- Create BigBag T2 from Hamper T2 with 3x3...t2x1...3x5 sticks...hamper-t2...tops LLL,NMN,NNN
 -----------
 ## v0.1.22-a Tier 2 Hamper - 6 slots
 - Create Hamper T2 from Hamper with t1x1...3x4 hamper...tops L_L,LML

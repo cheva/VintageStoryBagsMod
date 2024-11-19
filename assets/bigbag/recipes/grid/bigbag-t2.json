@@ -1,29 +1,29 @@
 [
 	{
-		ingredientPattern: "N,M,L",
+		ingredientPattern: "LLL,NMN,NNN",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:cattailtops", quantity: 5 },
+			"N": { type: "item", code: "game:cattailtops", quantity: 3 },
 			"M": { type: "item", code: "bigbag", quantity: 1 },
-			"N": { type: "item", code: "game:stick", quantity: 5 }
+			"L": { type: "item", code: "game:stick", quantity: 3 }
 		},
 		name: "bigbag-t2",
-		width: 1,
+		width: 3,
 		height: 3,
 		recipeGroup: 1,
 		output: { type: "item", code: "bigbag-t2"  }
 	}
 ,
 	{
-		ingredientPattern: "N,M,L",
+		ingredientPattern: "LLL,NMN,NNN",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:papyrustops", quantity: 5 },
+			"N": { type: "item", code: "game:papyrustops", quantity: 3 },
 			"M": { type: "item", code: "bigbag", quantity: 1 },
-			"N": { type: "item", code: "game:stick", quantity: 5 }
+			"L": { type: "item", code: "game:stick", quantity: 3 }
 		},
 		name: "bigbag-t2",
-		width: 1,
+		width: 3,
 		height: 3,
 		recipeGroup: 1,
 		output: { type: "item", code: "bigbag-t2"  }

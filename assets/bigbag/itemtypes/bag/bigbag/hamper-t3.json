@@ -8,7 +8,7 @@
 	],
 	attributes: {
 		backpack: {
-			quantitySlots: 6 
+			quantitySlots: 12 
 		}
 	},
 	textures: {
@@ -42,6 +42,6 @@
 	},
 	combustibleProps: {
 		burnTemperature: 600,
-		burnDuration: 10,
+		burnDuration: 20,
 	}
 }

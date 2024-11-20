@@ -6,7 +6,7 @@
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
 - Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LML,SMS,LNL
 -----------
-## *v0.1.24-a Tier 3 Hamper - 12 slots
+## v0.1.24-a Tier 3 Hamper - 12 slots
 - Create Hamper T3 from Hampers t2x2 with t2x2...2x2...3x5 hanper-t2...rope...tops LML,SMS,LLL
 -----------
 ## v0.1.23-a Tier 2 BigBag - 9 slots

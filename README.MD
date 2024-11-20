@@ -1,4 +1,4 @@
-# VintageStory\Mods\bags_0.1.23-a repo
+# VintageStory\Mods\bags_0.1.24-a repo
 -----------
 ## v0.1.25 Release
 - Test, Analyse and Rebuild

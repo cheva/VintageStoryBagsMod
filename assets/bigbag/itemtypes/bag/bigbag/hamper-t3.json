@@ -42,6 +42,6 @@
 	},
 	combustibleProps: {
 		burnTemperature: 600,
-		burnDuration: 20,
+		burnDuration: 30,
 	}
 }

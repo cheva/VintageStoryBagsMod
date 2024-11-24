@@ -4,7 +4,7 @@
 - Test, Analyse and Rebuild
 -----------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
-- Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LML,SMS,LNL
+- Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
 - Create BigBag T3 from Hamper T3 with 5x4...hamper-t3x1...5x1...5x3 sticks...hamper-t3...rope...tops SMS,SNS,LLL
 -----------
 ## v0.1.24-a Tier 3 Hamper - 12 slots

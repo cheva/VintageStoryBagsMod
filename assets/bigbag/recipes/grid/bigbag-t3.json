@@ -1,0 +1,66 @@
+[
+	{
+		ingredientPattern: "SMS,SNS,LLL",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:stick", quantity: 5 },
+			"M": { type: "item", code: "hamper-t3", quantity: 1 },
+			"N": { type: "item", code: "game:rope", quantity: 5 },
+			"L": { type: "item", code: "game:cattailtops", quantity: 5 },
+		},
+		name: "bigbag-t3",
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag-t3"  }
+	}
+,
+	{
+		ingredientPattern: "SMS,SNS,LLL",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:stick", quantity: 5 },
+			"M": { type: "item", code: "hamper-t3", quantity: 1 },
+			"N": { type: "item", code: "game:rope", quantity: 5 },
+			"L": { type: "item", code: "game:papyrustops", quantity: 5 },
+		},
+		name: "bigbag-t3",
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag-t3"  }
+	}
+,
+	{
+		ingredientPattern: "LNL,SMS,LML",
+		enabled: true,
+		ingredients: {
+			"N": { type: "item", code: "game:stick", quantity: 5 },
+			"M": { type: "item", code: "hamper-t2", quantity: 1 },
+			"S": { type: "item", code: "game:rope", quantity: 5 },
+			"L": { type: "item", code: "game:cattailtops", quantity: 5 },
+		},
+		name: "bigbag-t3",
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag-t3"  }
+	}
+,
+	{
+		ingredientPattern: "LNL,SMS,LML",
+		enabled: true,
+		ingredients: {
+			"N": { type: "item", code: "game:stick", quantity: 5 },
+			"M": { type: "item", code: "hamper-t2", quantity: 1 },
+			"S": { type: "item", code: "game:rope", quantity: 5 },
+			"L": { type: "item", code: "game:papyrustops", quantity: 5 },
+		},
+		name: "bigbag-t3",
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "bigbag-t3"  }
+	}
+,
+]

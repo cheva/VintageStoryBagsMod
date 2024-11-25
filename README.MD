@@ -1,11 +1,15 @@
 # VintageStory\Mods\bags_0.1.25-a repo
 -----------
 ## v0.1.25 Release
-- Test, Analyse and Rebuild
+- Test, Analyse and Rebalance
+    - !!!Create BigBag T3 from T2
+    - ???Create BigBag T3 from Hamper T3
+    - 1k World is Too Small (try 2k)
+    - Rebalance Quantities
 -----------
 ## v0.1.25-a  Tier 3 BigBag - 18 slots
-- Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
-- Create BigBag T3 from Hamper T3 with 5x4...hamper-t3x1...5x1...5x3 sticks...hamper-t3...rope...tops SMS,SNS,LLL
+- !!!Create BigBag T3 from T2 with 5x1...t2x2...2x2...5x4 sticks...bigbag-t2...rope...tops LNL,SMS,LML
+- ???Create BigBag T3 from Hamper T3 with 5x4...hamper-t3x1...5x1...5x3 sticks...hamper-t3...rope...tops SMS,SNS,LLL
 -----------
 ## v0.1.24-a Tier 3 Hamper - 12 slots
 - Create Hamper T3 from Hampers t2x2 with t2x2...2x2...3x5 hanper-t2...rope...tops LML,SMS,LLL
